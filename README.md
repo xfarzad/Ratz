@@ -20,6 +20,8 @@
 
 + Ratz Killbot whitelist for free
 
++ #1 for bladeball
+
 + 0 fps drops because optimized as shit and not skidded ofc and 100% out of scratch
 
 + IT WILL NEVER GO PUBLIC its staying private forever like the non - rewrite version
@@ -51,12 +53,6 @@
 # RatzR Features
 
 
-
-https://cdn.discordapp.com/attachments/1155639762368069712/1155650524343975957/Roblox_2023.09.25_-_01.17.43.29.DVR.mp4
-https://cdn.discordapp.com/attachments/1157812818607878214/1159264393943584868/Roblox_2023.10.05_-_00.45.17.06.DVR.mp4?ex=65306419&is=651def19&hm=33c04df0a5a30306697cf40f388fcc88dac913882c964cba6011f1ea70c44857&
-https://cdn.discordapp.com/attachments/1155639762368069712/1159625415971844267/Roblox_2023.10.06_-_00.55.03.13.DVR.mp4?ex=6531b453&is=651f3f53&hm=071a99748cf32c7099ddfdd95ca1d32fea5d934d4bc20dbe5a10812472a38fca&
-https://cdn.discordapp.com/attachments/1155639762368069712/1159986218143056002/Roblox_2023.10.07_-_00.41.42.17.DVR.mp4?ex=65330459&is=65208f59&hm=adcaf18cd72594703ddba83e9cf7bd7a27c48acfa9a5387799ceca5754d533e7&
-https://cdn.discordapp.com/attachments/1155639762368069712/1159986363672834048/Roblox_2023.10.07_-_00.44.22.21.DVR.mp4?ex=6533047c&is=65208f7c&hm=390e5c51e6fa1338017da78ec9f863dff9745885cf8c5488d98a1b826766d5a0&
 
 
 
