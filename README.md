@@ -54,14 +54,18 @@
 
 + Stalker ( if someone joins you through your roblox profile ( only profile ) it will notify/send a webhook based on what you choose ) this means you can find whos stalking you easily
 
-![image (12)](https://github.com/xfarzad/Ratz/assets/79649954/c3363c7f-ac5c-4b02-b768-59a333e599ec)
-
 ![image (13)](https://github.com/xfarzad/Ratz/assets/79649954/e27bfc83-f65a-4c28-9aea-b27eafb67725)
 
 ![image (14)](https://github.com/xfarzad/Ratz/assets/79649954/6bc320d4-d9ec-4fbb-9bb8-8405e3185d98)
 
++ video
+
 https://cdn.discordapp.com/attachments/1075568489965834302/1154936545908904018/Desktop_2023.09.23_-_02.24.12.19.mp4
 
++ other features
+
+
+![image (12)](https://github.com/xfarzad/Ratz/assets/79649954/0dc4ff02-69bf-45ce-97d3-d48a4c82511d)
 
 
 + etc and more to come
