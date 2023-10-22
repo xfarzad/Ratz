@@ -1,3 +1,11 @@
+# Contact Info
+
++ discord
+hahahahhhhhaah
+y8l
++ email
+fvarzad@gmail.com
+
 # $$$$rrRRAAATTTTTZZZZZZ!!!!
 
 + RatzR ( private 1x whitelist ) =   dm me $100 btc/eth or $120 paypal or $120 card
@@ -42,4 +50,4 @@
 
 + free ratz killbot
 
-etc and more to come
++ etc and more to come
