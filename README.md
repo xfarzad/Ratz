@@ -58,9 +58,9 @@
 
 ![image (14)](https://github.com/xfarzad/Ratz/assets/79649954/6bc320d4-d9ec-4fbb-9bb8-8405e3185d98)
 
-+ video
+https://github.com/xfarzad/Ratz/assets/79649954/c7101d27-6c8c-49e4-9095-ab776d8f122d
 
-https://cdn.discordapp.com/attachments/1075568489965834302/1154936545908904018/Desktop_2023.09.23_-_02.24.12.19.mp4
+
 
 + other features
 
