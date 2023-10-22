@@ -2,13 +2,13 @@
 
 + discord
 
-    * hahahahhhhhaah
+ * hahahahhhhhaah
 
-    * y8l
+ * y8l
 
 + email
 
-    fvarzad@gmail.com
+  * fvarzad@gmail.com
 
 
 
