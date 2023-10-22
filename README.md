@@ -2,9 +2,9 @@
 
 + discord
 
-    hahahahhhhhaah
+    * hahahahhhhhaah
 
-    y8l
+    * y8l
 
 + email
 
