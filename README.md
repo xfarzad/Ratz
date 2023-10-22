@@ -1,18 +1,10 @@
 # Contact Info
 
-+ discord
++ hahahahhhhhaah ( discord )
 
- * hahahahhhhhaah
++ y8l ( discord
 
- * y8l
-
-+ email
-
-  * fvarzad@gmail.com
-
-
-
----------------------------------------------------------------------------------------------------------------------------------
++ fvarzad@gmail.com ( email )
 
 # $$$$rrRRAAATTTTTZZZZZZ!!!!
 
