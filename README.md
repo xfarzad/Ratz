@@ -64,7 +64,7 @@ https://github.com/xfarzad/Ratz/assets/79649954/c7101d27-6c8c-49e4-9095-ab776d8f
 
 
 
-+ other features
+# other clips
 
 ![image (12)](https://github.com/xfarzad/Ratz/assets/79649954/0dc4ff02-69bf-45ce-97d3-d48a4c82511d)
 
@@ -75,6 +75,8 @@ https://github.com/xfarzad/Ratz/assets/79649954/77bd1c28-a713-4735-a5a1-a23d58fa
 https://github.com/xfarzad/Ratz/assets/79649954/c44c180c-7a2f-4119-935c-3b4df9e9d44c
 
 https://github.com/xfarzad/Ratz/assets/79649954/607fbf1a-0890-4eee-9f8b-b95e381ce315
+
+https://github.com/xfarzad/Ratz/assets/79649954/009cf7b4-358c-4d5d-a10b-1dc8d3b669c5
 
 
 
