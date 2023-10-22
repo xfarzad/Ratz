@@ -50,6 +50,8 @@
 
 + 5 resolver methods all optional
 
++ etc and more to come
+
 # RatzR Clips / Images
 
 + Stalker ( if someone joins you through your roblox profile ( only profile ) it will notify/send a webhook based on what you choose ) this means you can find whos stalking you easily
@@ -67,5 +69,9 @@ https://github.com/xfarzad/Ratz/assets/79649954/c7101d27-6c8c-49e4-9095-ab776d8f
 
 ![image (12)](https://github.com/xfarzad/Ratz/assets/79649954/0dc4ff02-69bf-45ce-97d3-d48a4c82511d)
 
++ RatzR kill bot ( comes for free with the script )
 
-+ etc and more to come
+https://github.com/xfarzad/Ratz/assets/79649954/89f588c9-d5b3-4e42-8e47-a3dde7e0c71c
+
+
+
