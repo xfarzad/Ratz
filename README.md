@@ -2,8 +2,6 @@
 
 + hahahahhhhhaah ( discord )
 
-+ y8l ( discord
-
 + fvarzad@gmail.com ( email )
 
 # $$$$rrRRAAATTTTTZZZZZZ!!!!
