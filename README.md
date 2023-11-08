@@ -1,3 +1,9 @@
+# current deal
+
+Only doing this 1 time
+
+renegade raider fortnite account for full source
+
 # Contact Info
 
 + hahahahhhhhaah ( discord )
