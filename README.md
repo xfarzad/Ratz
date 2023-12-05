@@ -50,7 +50,7 @@
 
 + 5 resolver methods all optional
 
-Notification ui and stalker credit go to dtbcall
++ Notification ui and stalker credit go to dtbcall
 
 + etc and more to come
 
