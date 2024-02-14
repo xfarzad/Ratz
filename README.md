@@ -2,7 +2,7 @@
 
 # Contact Info
 
-+ hahahahhhhhaah ( discord )
++ herqheih ( discord )
 
 + fvarzad@gmail.com ( email )
 
