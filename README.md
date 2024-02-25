@@ -28,7 +28,7 @@
 
 + bullet tp
 
-+ #1 blade ball script ( 93 win streak )
++ blade ball down
 
 + best trash talk ( auto gets users name and trashtalks it )
 
