@@ -6,7 +6,7 @@
 
 + herqheih ( discord )
 
-+ fvarzad@gmail.com ( email )
++ herqheih@gmail.com ( email )
 
 # $$$$rrRRAAATTTTTZZZZZZ!!!!
 
