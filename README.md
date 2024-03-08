@@ -1,3 +1,11 @@
+# NOT BEING SOLD ANYMORE ( GONE PRIVATE )
+
+
+
+
+
+
+
 # Automated Purchase
 
 + [Click me to buy](https://farzad.mysellix.io/product/65e62d2dda575)
