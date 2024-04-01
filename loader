@@ -1,7 +1,7 @@
 if getgenv().RussianCountry then
-    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/32fdb066eab3af7ba88c1a94a47248c9.lua"))()
-else
     script_id = "32fdb066eab3af7ba88c1a94a47248c9"
     USE_NON_SSL_NODE = true;
     loadstring(game:HttpGet("http://cappy.felinemastery.xyz/files/v3/l/" .. script_id .. ".lua"))({ WS=80 }
+else
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/32fdb066eab3af7ba88c1a94a47248c9.lua"))()
 end
